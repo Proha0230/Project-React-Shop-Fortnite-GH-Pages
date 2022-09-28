@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Project-React-Shop-Fortnite-GH-Pages/static/css/main.36eaf030.css",
+    "main.js": "/Project-React-Shop-Fortnite-GH-Pages/static/js/main.c76d64b5.js",
+    "index.html": "/Project-React-Shop-Fortnite-GH-Pages/index.html",
+    "main.36eaf030.css.map": "/Project-React-Shop-Fortnite-GH-Pages/static/css/main.36eaf030.css.map",
+    "main.c76d64b5.js.map": "/Project-React-Shop-Fortnite-GH-Pages/static/js/main.c76d64b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36eaf030.css",
+    "static/js/main.c76d64b5.js"
+  ]
+}
